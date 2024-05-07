@@ -1,0 +1,10 @@
+{
+    "profiles": {
+      "SemanticKernelSample": {
+        "commandName": "Project",
+        "environmentVariables": {
+          "DOTNET_ENVIRONMENT": "Development"
+        }
+      }
+    }
+  }
